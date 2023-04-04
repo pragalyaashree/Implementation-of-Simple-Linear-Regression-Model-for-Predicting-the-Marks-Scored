@@ -9,8 +9,11 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1.Import Pandas as pd & Import numpy as np
+
 2.Calulating The y_pred & y_test
+
 3.Find the graph for Training set & Test Set
+
 4.Find the values of MSE,MSA,RMSE
 
 ## Program:
