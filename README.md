@@ -74,7 +74,7 @@ print("MAE = ",mae)
 
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
-```
+
 
 
 
@@ -114,8 +114,7 @@ Test Set:
 Values of MSE,MAE,RMSE:
 
 ![ml9](https://user-images.githubusercontent.com/128135934/229764492-31b6125b-9ca5-4333-ad63-cfacb45f5f7a.png)
-```
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
-```
 
